@@ -1,2 +1,3 @@
-# MCDM-using-Topsis
-Multi criteria decision making MCDM using Topsis
+#Topsis - Multiple Criteria Decision Making
+ 
+- Technique for Order of Preference by Similarity to Ideal Solution
